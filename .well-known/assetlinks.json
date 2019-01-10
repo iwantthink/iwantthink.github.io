@@ -1,9 +1,3 @@
----
-title: "Assetlinks"
-date: 2019-01-10T14:04:09+08:00
-draft: false
----
-
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
