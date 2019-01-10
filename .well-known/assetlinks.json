@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "hmtdemo.hmt.com.hmtdemo",
+    "sha256_cert_fingerprints":
+    ["89:9F:64:CB:EB:B9:CC:B7:7A:94:F4:71:8D:C4:6F:4A:78:78:8D:2B:7E:DD:96:C0:74:37:F4:07:23:4C:B2:D4"]
+  }
+}]
