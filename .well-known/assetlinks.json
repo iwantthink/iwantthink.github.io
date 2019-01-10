@@ -13,13 +13,4 @@
     "namespace": "web",
     "site": "https://iwantthink.github.io"
   }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "hmtdemo.hmt.com.hmtdemo",
-    "sha256_cert_fingerprints":
-    ["0C:EE:ED:EE:5F:71:4A:D7:2E:A4:1A:FD:9A:5F:0A:EB:FB:3F:DF:C0:DE:7F:5E:41:38:4B:2F:59:0F:96:E6:A2"]
-  }
 }]
